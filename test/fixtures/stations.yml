@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  route: MyString
+  walking_minutes: 1
+  apartment: one
+
+two:
+  name: MyString
+  route: MyString
+  walking_minutes: 1
+  apartment: two
